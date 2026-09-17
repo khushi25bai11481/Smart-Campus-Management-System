@@ -4,7 +4,7 @@ A Java-based command-line application for managing students, courses, complaints
 
 ## Project Description
 
-The Smart Campus Management System is designed to provide a simple and organized way to manage important campus activities using Java.
+For providing a simple and organized way to manage important campus activities using Java,Smart Campus Management System is designed.
 
 The system uses a menu-driven interface and follows an object-oriented programming approach.
 
